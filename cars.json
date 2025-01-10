@@ -1,0 +1,240 @@
+[
+    {
+        "make": "Audi",
+        "model": "A6",
+        "year": 2022,
+        "number": "Х451ЕН101",
+        "district": "Центральный"
+    },
+    {
+        "make": "BMW",
+        "model": "X5",
+        "year": 2023,
+        "number": "Х123ЕК202",
+        "district": "Южный"
+    },
+    {
+        "make": "Mercedes",
+        "model": "S-Class",
+        "year": 2021,
+        "number": "Х678ХХ303",
+        "district": "Западный"
+    },
+    {
+        "make": "Toyota",
+        "model": "Land Cruiser",
+        "year": 2020,
+        "number": "Х234ЕН404",
+        "district": "Восточный"
+    },
+    {
+        "make": "Audi",
+        "model": "Q7",
+        "year": 2018,
+        "number": "Х987ХХ505",
+        "district": "Северный"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Passat",
+        "year": 2019,
+        "number": "Х321ЕН606",
+        "district": "Центральный"
+    },
+    {
+        "make": "Lexus",
+        "model": "RX",
+        "year": 2021,
+        "number": "Х456ЕН707",
+        "district": "Южный"
+    },
+    {
+        "make": "Ford",
+        "model": "Focus",
+        "year": 2017,
+        "number": "Х789ХХ808",
+        "district": "Западный"
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Tahoe",
+        "year": 2020,
+        "number": "Х234ЕН909",
+        "district": "Восточный"
+    },
+    {
+        "make": "Honda",
+        "model": "Pilot",
+        "year": 2022,
+        "number": "Х101ХХ101",
+        "district": "Северный"
+    },
+    {
+        "make": "BMW",
+        "model": "X6",
+        "year": 2023,
+        "number": "Х567ЕН202",
+        "district": "Центральный"
+    },
+    {
+        "make": "Mercedes",
+        "model": "GLS",
+        "year": 2021,
+        "number": "Х898ХХ303",
+        "district": "Южный"
+    },
+    {
+        "make": "Audi",
+        "model": "A3",
+        "year": 2019,
+        "number": "Х101ЕН404",
+        "district": "Западный"
+    },
+    {
+        "make": "Kia",
+        "model": "Sorento",
+        "year": 2020,
+        "number": "Х202ХХ505",
+        "district": "Восточный"
+    },
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "number": "Х303ЕН606",
+        "district": "Северный"
+    },
+    {
+        "make": "Audi",
+        "model": "Q5",
+        "year": 2021,
+        "number": "Х404ХХ707",
+        "district": "Центральный"
+    },
+    {
+        "make": "Mazda",
+        "model": "CX-5",
+        "year": 2023,
+        "number": "Х505ЕН808",
+        "district": "Южный"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Tiguan",
+        "year": 2018,
+        "number": "Х606ХХ909",
+        "district": "Западный"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Palisade",
+        "year": 2022,
+        "number": "Х707ЕН101",
+        "district": "Восточный"
+    },
+    {
+        "make": "BMW",
+        "model": "iX",
+        "year": 2023,
+        "number": "Х808ХХ202",
+        "district": "Северный"
+    },
+    {
+        "make": "Lexus",
+        "model": "LX",
+        "year": 2021,
+        "number": "Х909ЕН303",
+        "district": "Центральный"
+    },
+    {
+        "make": "Nissan",
+        "model": "Patrol",
+        "year": 2020,
+        "number": "Х101ХХ404",
+        "district": "Южный"
+    },
+    {
+        "make": "Mitsubishi",
+        "model": "Pajero",
+        "year": 2022,
+        "number": "Х202ЕН505",
+        "district": "Западный"
+    },
+    {
+        "make": "Jeep",
+        "model": "Grand Cherokee",
+        "year": 2021,
+        "number": "Х303ХХ606",
+        "district": "Восточный"
+    },
+    {
+        "make": "Honda",
+        "model": "CR-V",
+        "year": 2023,
+        "number": "Х404ЕН707",
+        "district": "Северный"
+    },
+    {
+        "make": "Audi",
+        "model": "S4",
+        "year": 2020,
+        "number": "Х505ХХ808",
+        "district": "Центральный"
+    },
+    {
+        "make": "Ford",
+        "model": "Explorer",
+        "year": 2021,
+        "number": "Х606ЕН909",
+        "district": "Южный"
+    },
+    {
+        "make": "Mazda",
+        "model": "CX-9",
+        "year": 2022,
+        "number": "Х707ХХ101",
+        "district": "Западный"
+    },
+    {
+        "make": "Hyundai",
+        "model": "Tucson",
+        "year": 2023,
+        "number": "Х808ЕН202",
+        "district": "Восточный"
+    },
+    {
+        "make": "BMW",
+        "model": "3 Series",
+        "year": 2019,
+        "number": "Х909ХХ303",
+        "district": "Северный"
+    },
+    {
+        "make": "Land Rover",
+        "model": "Range Rover",
+        "year": 2021,
+        "number": "Х101ЕН404",
+        "district": "Центральный"
+    },
+    {
+        "make": "Toyota",
+        "model": "RAV4",
+        "year": 2020,
+        "number": "Х202ХХ505",
+        "district": "Южный"
+    },
+    {
+        "make": "Peugeot",
+        "model": "5008",
+        "year": 2022,
+        "number": "Х303ЕН606",
+        "district": "Западный"
+    },
+    {
+        "make": "Subaru",
+        "model": "Outback",
+        "year": 2021,
+        "number": "Х404ХХ707",
+        "district": "Восточный"
+    }
+]

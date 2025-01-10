@@ -1,0 +1,198 @@
+[
+    {
+        "surname": "Иванова",
+        "name": "Мария",
+        "patronymic": "Сергеевна",
+        "age": 30,
+        "district": "Южный"
+    },
+    {
+        "surname": "Смирнова",
+        "name": "Елена",
+        "patronymic": "Александровна",
+        "age": 22,
+        "district": "Восточный"
+    },
+    {
+        "surname": "Горячев",
+        "name": "Максим",
+        "patronymic": "Вячеславович",
+        "age": 35,
+        "district": "Центральный"
+    },
+    {
+        "surname": "Кузнецов",
+        "name": "Алексей",
+        "patronymic": "Михайлович",
+        "age": 27,
+        "district": "Западный"
+    },
+    {
+        "surname": "Кузнецов",
+        "name": "Алекс",
+        "patronymic": "Алексеевич",
+        "age": 31,
+        "district": "Южный"
+    },
+    {
+        "surname": "Николаев",
+        "name": "Денис",
+        "patronymic": "Владимирович",
+        "age": 23,
+        "district": "Северный"
+    },
+    {
+        "surname": "Михайлова",
+        "name": "Алина",
+        "patronymic": "Дмитриевна",
+        "age": 29,
+        "district": "Восточный"
+    },
+    {
+        "surname": "Андреев",
+        "name": "Егор",
+        "patronymic": "Петрович",
+        "age": 32,
+        "district": "Центральный"
+    },
+    {
+        "surname": "Сорокина",
+        "name": "Ирина",
+        "patronymic": "Викторовна",
+        "age": 27,
+        "district": "Западный"
+    },
+    {
+        "surname": "Лебедев",
+        "name": "Артем",
+        "patronymic": "Сергеевич",
+        "age": 36,
+        "district": "Южный"
+    },
+    {
+        "surname": "Павлова",
+        "name": "Татьяна",
+        "patronymic": "Ивановна",
+        "age": 24,
+        "district": "Северный"
+    },
+    {
+        "surname": "Ковалев",
+        "name": "Роман",
+        "patronymic": "Дмитриевич",
+        "age": 28,
+        "district": "Восточный"
+    },
+    {
+        "surname": "Федорова",
+        "name": "Елена",
+        "patronymic": "Михайловна",
+        "age": 33,
+        "district": "Центральный"
+    },
+    {
+        "surname": "Шевченко",
+        "name": "Анатолий",
+        "patronymic": "Николаевич",
+        "age": 41,
+        "district": "Западный"
+    },
+    {
+        "surname": "Гусева",
+        "name": "Маргарита",
+        "patronymic": "Александровна",
+        "age": 26,
+        "district": "Южный"
+    },
+    {
+        "surname": "Соловьев",
+        "name": "Михаил",
+        "patronymic": "Олегович",
+        "age": 30,
+        "district": "Северный"
+    },
+    {
+        "surname": "Королева",
+        "name": "София",
+        "patronymic": "Станиславовна",
+        "age": 23,
+        "district": "Восточный"
+    },
+    {
+        "surname": "Чернов",
+        "name": "Виктор",
+        "patronymic": "Анатольевич",
+        "age": 39,
+        "district": "Центральный"
+    },
+    {
+        "surname": "Зайцева",
+        "name": "Анастасия",
+        "patronymic": "Евгеньевна",
+        "age": 26,
+        "district": "Западный"
+    },
+    {
+        "surname": "Яковлев",
+        "name": "Александр",
+        "patronymic": "Максимович",
+        "age": 33,
+        "district": "Южный"
+    },
+    {
+        "surname": "Климентова",
+        "name": "Марина",
+        "patronymic": "Олеговна",
+        "age": 29,
+        "district": "Северный"
+    },
+    {
+        "surname": "Петренко",
+        "name": "Никита",
+        "patronymic": "Сергеевич",
+        "age": 24,
+        "district": "Восточный"
+    },
+    {
+        "surname": "Орлов",
+        "name": "Константин",
+        "patronymic": "Евгеньевич",
+        "age": 38,
+        "district": "Центральный"
+    },
+    {
+        "surname": "Колесникова",
+        "name": "Ольга",
+        "patronymic": "Петровна",
+        "age": 41,
+        "district": "Западный"
+    },
+    {
+        "surname": "Тимофеева",
+        "name": "Юлия",
+        "patronymic": "Владимировна",
+        "age": 35,
+        "district": "Южный"
+    },
+    {
+        "surname": "Шаров",
+        "name": "Владислав",
+        "patronymic": "Юрьевич",
+        "age": 28,
+        "district": "Северный"
+    },
+    {
+        "surname": "Миронова",
+        "name": "Наталья",
+        "patronymic": "Геннадиевна",
+        "age": 26,
+        "district": "Восточный"
+    },
+    {
+        "surname": "Иванов",
+        "name": "Иван",
+        "patronymic": "Иванович",
+        "age": 22,
+        "district": "Северный"
+    }
+]
