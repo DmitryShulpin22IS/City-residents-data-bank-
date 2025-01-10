@@ -21,5 +21,5 @@ if not exist venv\Lib\site-packages\installed (
 )
 
 echo Starting app...
-python BGG.py
+python main.py
 pause
